@@ -1,4 +1,3 @@
-# 8-8-RAM-Design-using-Verilog
 # 8×8 RAM Design using Verilog
 
 This project implements an **8×8 Random Access Memory (RAM)** using **Verilog HDL** as part of a digital design project series.
